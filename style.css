@@ -1,5 +1,7 @@
+/* Customization: Changed font color to be visible with image*/
 body{color:coral}
 
+/* Customization: stock image via Freeimages.com for jumbotron */
 .jumbotron{
 background-image: url("images/lab-work-1238422.jpg")
 }
